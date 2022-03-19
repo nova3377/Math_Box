@@ -4,3 +4,6 @@ def add(a,b):
 
 def subtract(a, b):
 	return a-b
+
+def multiply(a, b): #변경
+	return a*b
