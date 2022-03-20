@@ -5,5 +5,5 @@ def add(a,b):
 def subtract(a, b):
 	return a-b
 
-def multiply(a, b):
+def multiply(a, b): #수정
 	return a*b
